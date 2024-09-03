@@ -80,8 +80,10 @@ ol {
   gap: 30px;
   align-self: flex-end;
   margin: auto;
-  inline-size: 1140px;
-  block-size: 534px;
+  padding-inline: 30px;
+  padding-block: 133px;
+  inline-size: 1200px;
+  block-size: 800px;
 }
 
 .result {
